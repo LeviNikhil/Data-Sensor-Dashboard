@@ -1,0 +1,19 @@
+.sensor-data-display {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .temp-header {
+    color: red;
+  }
+  
+  .humidity-header {
+    color: blue;
+  }
+  
+  .chart {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+  }
